@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/locations"
+        android:title="URLs"
+        android:icon="@drawable/baseline_web_24"/>
+    <item
+        android:id="@+id/qr"
+        android:title=""
+        android:enabled="true"/>
+    <item
+        android:id="@+id/networks"
+        android:title="Networks"
+        android:icon="@drawable/baseline_wifi_24"/>
+
+</menu>
